@@ -1,0 +1,45 @@
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\bin\Debug\WpfBooking.exe.config
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\bin\Debug\WpfBooking.exe
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\bin\Debug\WpfBooking.pdb
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\WpfBooking.csprojAssemblyReference.cache
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\MainWindow.g.cs
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\App.g.cs
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\WpfBooking_MarkupCompile.cache
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\WpfBooking_MarkupCompile.lref
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\MainWindow.baml
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\WpfBooking.g.resources
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\WpfBooking.Properties.Resources.resources
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\WpfBooking.csproj.GenerateResource.cache
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\WpfBooking.csproj.CoreCompileInputs.cache
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\WpfBooking.exe
+C:\Users\T430\Source\Repos\WpfBooking\WpfBooking\obj\Debug\WpfBooking.pdb
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\bin\Debug\WpfBooking.exe.config
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\bin\Debug\WpfBooking.exe
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\bin\Debug\WpfBooking.pdb
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\WpfBooking.csprojAssemblyReference.cache
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\MainWindow.g.cs
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\App.g.cs
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\WpfBooking_MarkupCompile.cache
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\WpfBooking_MarkupCompile.lref
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\MainWindow.baml
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\WpfBooking.g.resources
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\WpfBooking.Properties.Resources.resources
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\WpfBooking.csproj.GenerateResource.cache
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\WpfBooking.csproj.CoreCompileInputs.cache
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\WpfBooking.exe
+C:\Users\T430\Dropbox\Kode Synkroniseret\WpfBooking\WpfBooking\obj\Debug\WpfBooking.pdb
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\bin\Debug\WpfBooking.exe.config
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\bin\Debug\WpfBooking.exe
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\bin\Debug\WpfBooking.pdb
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\WpfBooking.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\MainWindow.g.cs
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\App.g.cs
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\WpfBooking_MarkupCompile.cache
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\WpfBooking_MarkupCompile.lref
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\MainWindow.baml
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\WpfBooking.g.resources
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\WpfBooking.Properties.Resources.resources
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\WpfBooking.csproj.GenerateResource.cache
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\WpfBooking.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\WpfBooking.exe
+C:\Users\Bruger\Desktop\WpfBooking\WpfBooking\obj\Debug\WpfBooking.pdb

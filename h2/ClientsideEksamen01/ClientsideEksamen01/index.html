@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>hey</title>
+</head>
+<body>
+    <table id="fetch" border="2" cellspacing="1" cellpadding="2" class="table">
+        <tr>
+        </tr>
+    </table>
+   
+        <script>
+            var array = [['Danmarks Radio', 'TV2', 'YouTube', 'Facebook', 'instagram'], ['tilføje', 'tilføje', 'tilføje', 'tilføje', 'tilføje']];
+            var urlarray = [['http://www.dr.dk/', 'http://www.tv2.dk/', 'http://www.youtube.dk/', 'http://Facebook.dk/', 'https://www.instagram.com/'], ['http://www.google.com/', 'http://www.google.com/', 'http://www.google.com/', 'http://www.google.com/', 'http://www.google.com/']]
+            var nummer = 0;
+
+            fetch = document.getElementById('fetch');
+            for (var i = 0; i < array.length; i++) {
+                var newRow2 = fetch.insertRow(fetch.length);
+                var newRow = fetch.insertRow(fetch.length);
+                for (var j = 0; j < array[i].length; j++) {
+                    var cell2 = newRow2.insertCell(j);
+                    cell2.innerHTML = "Tryk: " + nummer;
+                    var cell = newRow.insertCell(j);
+                    cell.innerHTML = array[i][j];
+                    nummer++;
+                }
+            }
+
+            document.addEventListener('keydown', function (e) {
+                switch (e.keyCode) {
+                    case 48:
+                        window.open(urlarray[0][0])
+                        break;
+                    case 49:
+                        window.open(urlarray[0][1])
+                        break;
+                    case 50:
+                        window.open(urlarray[0][2])
+                        break;
+                    case 51:
+                        window.open(urlarray[0][3])
+                        break;
+                    case 52:
+                        window.open(urlarray[0][4])
+                        break;
+                    case 53:
+                        window.open(urlarray[1][0])
+                        break;
+                    case 54:
+                        window.open(urlarray[1][1])
+                        break;
+                    case 55:
+                        window.open(urlarray[1][2])
+                        break;
+                    case 56:
+                        window.open(urlarray[1][3])
+                        break;
+                    case 57:
+                        window.open(urlarray[1][4])
+                        break;
+
+                }
+            });
+       
+            
+        </script>
+</body>
+
+</html>

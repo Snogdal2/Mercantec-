@@ -1,0 +1,40 @@
+﻿<Page x:Class="WpfApp1.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp1"
+      mc:Ignorable="d" 
+      d:DesignHeight="768" d:DesignWidth="1366" Background="DarkGray"
+      Title="Page1">
+
+    <Grid>
+        <Button Click="blue_Click" Background="Blue" HorizontalAlignment="Left" Margin="452,60,0,0" VerticalAlignment="Top" Width="93" Height="91"/>
+        <Button  HorizontalAlignment="Left" Margin="267,330,0,0" VerticalAlignment="Top" Width="93" Height="89"/>
+        <Button HorizontalAlignment="Left" Margin="173,330,0,0" VerticalAlignment="Top" Width="94" Height="89"/>
+        <Button  HorizontalAlignment="Left" Margin="80,330,0,0" VerticalAlignment="Top" Width="93" Height="89"/>
+        <Button Background="Yellow" HorizontalAlignment="Left" Margin="267,240,0,0" VerticalAlignment="Top" Width="93" Height="90"/>
+        <Button  HorizontalAlignment="Left" Margin="267,150,0,0" VerticalAlignment="Top" Width="93" Height="89"/>
+        <Button Background="LightBlue" HorizontalAlignment="Left" Margin="267,60,0,0" VerticalAlignment="Top" Width="93" Height="91"/>
+        <Button  HorizontalAlignment="Left" Margin="173,240,0,0" VerticalAlignment="Top" Width="94" Height="90"/>
+        <Button Background="Green" HorizontalAlignment="Left" Margin="80,240,0,0" VerticalAlignment="Top" Width="93" Height="90"/>
+        <Button  HorizontalAlignment="Left" Margin="173,150,0,0" VerticalAlignment="Top" Width="94" Height="89"/>
+        <Button  HorizontalAlignment="Left" Margin="80,150,0,0" VerticalAlignment="Top" Width="93" Height="89"/>
+        <Button Background="LightGreen" HorizontalAlignment="Left" Margin="80,60,0,0" VerticalAlignment="Top" Width="93" Height="91"/>
+        <Button  HorizontalAlignment="Left" Margin="359,150,0,0" VerticalAlignment="Top" Width="93" Height="89"/>
+        <Button  HorizontalAlignment="Left" Margin="359,240,0,0" VerticalAlignment="Top" Width="93" Height="90"/>
+        <Button  HorizontalAlignment="Left" Margin="359,330,0,0" VerticalAlignment="Top" Width="93" Height="89"/>
+        <Button  HorizontalAlignment="Left" Margin="359,60,0,0" VerticalAlignment="Top" Width="93" Height="91"/>
+        <Button  HorizontalAlignment="Left" Margin="173,60,0,0" VerticalAlignment="Top" Width="94" Height="91"/>
+        <Button  HorizontalAlignment="Left" Margin="359,419,0,0" VerticalAlignment="Top" Width="93" Height="91"/>
+        <Button Background="PaleVioletRed" HorizontalAlignment="Left" Margin="267,419,0,0" VerticalAlignment="Top" Width="93" Height="91"/>
+        <Button  HorizontalAlignment="Left" Margin="173,419,0,0" VerticalAlignment="Top" Width="94" Height="91"/>
+        <Button Background="Black" HorizontalAlignment="Left" Margin="80,419,0,0" VerticalAlignment="Top" Width="93" Height="91"/>
+        <Button  HorizontalAlignment="Left" Margin="452,330,0,0" VerticalAlignment="Top" Width="93" Height="89"/>
+        <Button Background="red" HorizontalAlignment="Left" Margin="452,419,0,0" VerticalAlignment="Top" Width="93" Height="91"/>
+        <Button  HorizontalAlignment="Left" Margin="452,150,0,0" VerticalAlignment="Top" Width="93" Height="89"/>
+        <Button Background="Pink" HorizontalAlignment="Left" Margin="452,240,0,0" VerticalAlignment="Top" Width="93" Height="90"/>
+        <Frame x:Name="frame1" HorizontalAlignment="Left" Height="598" Margin="579,60,0,0" VerticalAlignment="Top" Width="701"/>
+
+    </Grid>
+</Page>

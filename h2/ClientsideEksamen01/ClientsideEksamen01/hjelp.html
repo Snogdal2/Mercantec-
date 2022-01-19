@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body id="bod">
+
+    <label for="avatar">Choose a profile picture:</label>
+
+    <input type="file"
+           id="avatar" name="avatar"
+           accept="audio/*">
+
+    <table id="fetch" border="2" cellspacing="1" cellpadding="2" class="table">
+        <tr>
+        </tr>
+    </table>
+    <script>
+
+        var mysql = require('mysql');
+
+        var con = mysql.createConnection({
+            host: "localhost",
+            user: "root",
+            password: "",
+            database: "musiksammenligner"
+        });
+
+        con.connect(function (err) {
+            if (err) throw err;
+            con.query("SELECT * FROM songs", function (err, result, fields) {
+                if (err) throw err;
+                console.log(result);
+            });
+        });
+
+
+
+        loadDoc();
+        function loadDoc() {
+            const xhttp = new XMLHttpRequest();
+            xhttp.onload = function () {
+                var k = JSON.parse(this.responseText);
+                fetch = document.getElementById('fetch');
+
+                for (let i = 0; i < k.length; i++) {
+                    var newRow = fetch.insertRow(fetch.length);
+                    var cell = newRow.insertCell(0);
+                    cell.innerHTML = k[i].Name;
+                    var cell = newRow.insertCell(1);
+                    var newi = Number(i);
+                    knap = document.createElement('button');
+                    knap.textContent = k[i].Url;
+
+                    knap.onclick = function () {
+                        nyfnction(newi);
+                    }
+                    cell.appendChild(knap);
+
+
+                }
+
+            }
+
+            xhttp.open("GET", "http://restpublic.junoeuro.dk/service1.svc/getListOfPersons/");
+            xhttp.send();
+        }
+    </script>
+</body>
+</html>

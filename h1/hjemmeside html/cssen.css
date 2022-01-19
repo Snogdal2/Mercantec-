@@ -1,0 +1,115 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: lightblue;
+  margin: 0;
+  margin-left:100;
+}
+
+#bro{
+  background-image: url("bro.jpg");
+  background-position: 0px 700px;
+  text-align: center;
+}
+
+#bro h1{
+  padding: 3%;
+  color: white;
+  font-size: 100px;
+}
+
+.linktil {
+margin-left: 0px;
+}
+
+a {
+  margin-left: 30px;
+}
+
+img {
+  max-width: 500px;
+  max-height: 250px;
+  margin-left: 30px;
+}
+img:hover {
+max-width: 1000px;
+max-height: 500px;
+margin-left: 10px;
+}
+
+#lastbil {
+  margin-left: 400px;
+}
+
+h1   {color: black; text-align: center;}
+p    {color: red;}
+h2   {color: black; margin-left: 30px;}
+h3 {color: black; text-align: center;}
+h4 {margin-left: 30px;}
+h5 {margin-left: 50px; color: lightblue;}
+
+
+.sidenav {
+  height: 100%;
+  width: 100px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: cornflowerblue;
+  overflow-x: hidden;
+  padding-top: 20px;
+  
+}
+.hej {
+  height: 100%;
+  width: 100px;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  background-color: cornflowerblue;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.hej:hover {
+  z-index: 0;
+}
+
+.sidenav:hover {
+  height: 100%;
+  width: 270px;
+  position: fixed;
+  z-index: 3;
+  top: 0;
+  left: 0;
+  background-color: cornflowerblue;
+  overflow-x: hidden;
+  padding-top: 20px;
+  
+}
+
+
+
+
+dl {
+  margin-left: 50px;
+}
+
+iframe {
+  margin-left: 350px;
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
